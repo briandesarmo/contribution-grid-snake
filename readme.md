@@ -1,0 +1,1 @@
+[![generate animation](https://github.com/briandesarmo/contribution-grid-snake/actions/workflows/main.yml/badge.svg)](https://github.com/briandesarmo/contribution-grid-snake/actions/workflows/main.yml)
